@@ -1,5 +1,11 @@
 {
   "cache_time": 7200,
+  "api_site": {
+    "1080zyku": {
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "name": "TV-1080资源",
+      "detail": "https://api.1080zyku.com"
+    },
     "155api": {
       "api": "https://155api.com/api.php/provide/vod",
       "name": "AV-155资源",
@@ -14,6 +20,11 @@
       "api": "https://ckzy.me/api.php/provide/vod",
       "name": "TV-CK资源",
       "detail": "https://ckzy.me"
+    },
+    "ukuapi": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "name": "TV-U酷资源",
+      "detail": "https://api.ukuapi.com"
     },
     "ukuapi88": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
