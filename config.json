@@ -1,11 +1,6 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "1080zyku": {
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "name": "TV-1080资源",
-      "detail": "https://api.1080zyku.com"
-    },
     "155api": {
       "api": "https://155api.com/api.php/provide/vod",
       "name": "AV-155资源",
