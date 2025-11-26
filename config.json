@@ -1,6 +1,11 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "1080zyku": {
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "name": "TV-1080资源",
+      "detail": "https://api.1080zyku.com"
+    },
     "155api": {
       "api": "https://155api.com/api.php/provide/vod",
       "name": "AV-155资源",
@@ -182,8 +187,8 @@
       "detail": "https://caiji.dbzy.tv"
     },
     "dbzy": {
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "name": "豆瓣资源",
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "name": "TV-豆瓣资源",
       "detail": "https://dbzy.tv"
     },
     "hhzyapi": {
@@ -433,6 +438,10 @@
     "yzzy_api": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
+    },
+    "iqiyizyapi": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyi资源"
     },
     "xxibaozyw": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
